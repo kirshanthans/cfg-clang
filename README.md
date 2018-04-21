@@ -3,4 +3,4 @@
 * cd cfg-clang
 * make
 
-* ./tool tests/<filename>.c 
+* ./tool tests/\<filename\>.c 
