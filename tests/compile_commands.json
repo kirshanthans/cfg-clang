@@ -1,0 +1,15 @@
+[
+    {
+        "arguments": [
+            "cc", 
+            "-c", 
+            "-w", 
+            "-I/usr/local/lib/clang/7.0.0/include/", 
+            "-o", 
+            "traverse.o", 
+            "traverse.c"
+        ], 
+        "directory": "/home/ksundar/Downloads/cfg-clang/tests", 
+        "file": "traverse.c"
+    }
+]

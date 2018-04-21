@@ -1,0 +1,5 @@
+build
+tool
+*.o
+.*.swp
+.*.swa
